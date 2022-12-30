@@ -1,1 +1,10 @@
+.logo {
+    height: fit-content;
+    width: fit-content;
+}
 
+.nav {
+    color: black;
+    justify-content: space-between;
+    margin: auto;
+}
